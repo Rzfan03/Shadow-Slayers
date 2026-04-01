@@ -1,0 +1,25 @@
+{
+    "activeFile": "maps.tmx",
+    "fileStates": {
+        "": {
+            "scaleInDock": 0.75
+        },
+        "maps.tmx": {
+            "scale": 0.8173958333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 479.5718108831401,
+                "y": 290.55690072639226
+            }
+        },
+        "maps.tmx#maps-tileset": {
+            "scaleInDock": 0.5
+        }
+    },
+    "openFiles": [
+        "maps.tmx"
+    ],
+    "recentFiles": [
+        "maps.tmx"
+    ]
+}
